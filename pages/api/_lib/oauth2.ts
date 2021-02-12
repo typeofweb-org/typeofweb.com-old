@@ -1,4 +1,4 @@
-import { ClientCredentials, ResourceOwnerPassword, AuthorizationCode } from "simple-oauth2";
+import { ClientCredentials, AuthorizationCode } from "simple-oauth2";
 
 const CONFIG = {
   client: {

@@ -5,8 +5,8 @@ backend:
   base_url: https://netlify-cms-now.now.sh # CHANGE ME
   auth_endpoint: api/auth
 
-media_folder: /public/img
-public_folder: /public/img
+media_folder: public/img
+public_folder: /img
 
 collections:
   - name: "blog"
