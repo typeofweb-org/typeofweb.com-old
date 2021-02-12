@@ -13,9 +13,8 @@ const CONFIG = {
 }
 
 export const authorizationCode = () => new AuthorizationCode(CONFIG);
-export const clientCredentials = () =>new ClientCredentials(CONFIG);
+export const clientCredentials = () => new ClientCredentials(CONFIG);
   
-
 type Content = {
   type: 'success';
   token: string; provider: "github"
