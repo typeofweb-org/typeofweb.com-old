@@ -6,6 +6,14 @@ backend:
   auth_endpoint: api/auth
 
 publish_mode: editorial_workflow
+show_preview_links: true
+
+slug:
+  encoding:
+    ascii: true
+    clean_accents: true
+
+summary: "{{title}} ({{commit_author}} @ {{commit_date}})"
 
 media_folder: public/img
 public_folder: /img
@@ -17,7 +25,7 @@ collections:
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
-      preview: false
+      preview: true
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
