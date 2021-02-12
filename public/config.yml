@@ -5,6 +5,8 @@ backend:
   base_url: https://typeofweb-com.vercel.app/
   auth_endpoint: api/auth
 
+publish_mode: editorial_workflow
+
 media_folder: public/img
 public_folder: /img
 
