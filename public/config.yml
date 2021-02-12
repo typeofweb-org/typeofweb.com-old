@@ -2,7 +2,7 @@ backend:
   name: github
   repo: typeofweb/typeofweb.com
   branch: main
-  base_url: https://netlify-cms-now.now.sh # CHANGE ME
+  base_url: https://typeofweb-com.vercel.app/
   auth_endpoint: api/auth
 
 media_folder: public/img
