@@ -5,6 +5,8 @@ backend:
   base_url: https://typeofweb-com.vercel.app/
   auth_endpoint: api/auth
   site_url: https://typeofweb-com.vercel.app/
+  squash_merges: true
+  open_authoring: true
 
 publish_mode: editorial_workflow
 show_preview_links: true
