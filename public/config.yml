@@ -9,9 +9,8 @@ publish_mode: editorial_workflow
 show_preview_links: true
 
 slug:
-  encoding:
-    ascii: true
-    clean_accents: true
+  encoding: "ascii"
+  clean_accents: true
 
 summary: "{{title}} ({{commit_author}} @ {{commit_date}})"
 
