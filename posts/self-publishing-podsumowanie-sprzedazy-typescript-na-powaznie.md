@@ -27,6 +27,7 @@ seo:
   metadesc: Ile zarobiłem na książce „TypeScript na poważnie”? Jaka była sprzedaż?
     Czego się spodziewałem? Jakie koszta musiałem ponieść? Ciąg dalszy o
     self-publishing.
+  is_cornerstone: false
 ---
 Jakiś czas temu na moim [instagramie](https://www.instagram.com/michal_typeofweb/) zadałem pytanie, czy chcielibyście zobaczyć podsumowanie sprzedaży książki „TypeScript na poważnie” w self-publishing. Blisko 100% odpowiedzi było na TAK, więc oto i ono 🙂
 
@@ -42,7 +43,13 @@ Nie obyło się bez **fakapów** – standardowo – uroki self-publishing. Pier
 
 Bug leżał gdzieś w czeluściach modyfikacji, które wprowadziłem do WooCommerce. Nie miałem pojęcia nawet gdzie zacząć szukać, więc zrobiłem to, co każdy porządny programista zrobiłby na moim miejscu: **zahardkodowałem ceny produktów w kodzie** 😅
 
-<figure aria-describedby="caption-attachment-2624" class="wp-caption aligncenter" id="attachment_2624" style="width: 639px">[![](../../uploads/2020/12/Screenshot-2020-12-31-at-20.05.46-889x1024.png)](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-20.05.46.png)<figcaption class="wp-caption-text" id="caption-attachment-2624">Zahardkowane ceny produktów w sklepie. Tak, używam jasnego motywu w edytorze.</figcaption></figure>Mam 3 produkty w sklepie, zajęło mi to jakieś 30 sekund. **Oczywiście wcześniej spędziłem 6 godzin** próbując załatać problem w jakiś „porządny” sposób. Cóż. Czasami po prostu nie warto tracić z oczu ważniejszego celu.
+<figure aria-describedby="caption-attachment-2624" class="wp-caption aligncenter" id="attachment_2624" style="width: 639px">
+
+[![](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-20.05.46-889x1024.png)](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-20.05.46.png)
+
+<figcaption class="wp-caption-text" id="caption-attachment-2624">Zahardkowane ceny produktów w sklepie. Tak, używam jasnego motywu w edytorze.</figcaption></figure>
+
+Mam 3 produkty w sklepie, zajęło mi to jakieś 30 sekund. **Oczywiście wcześniej spędziłem 6 godzin** próbując załatać problem w jakiś „porządny” sposób. Cóż. Czasami po prostu nie warto tracić z oczu ważniejszego celu.
 
 ## Przychody w przedsprzedaży
 
