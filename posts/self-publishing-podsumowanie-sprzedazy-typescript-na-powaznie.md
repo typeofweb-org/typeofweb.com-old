@@ -1,35 +1,33 @@
 ---
-title: 'Self-publishing: Podsumowanie sprzedaży TypeScript na poważnie'
-date: '2021-01-01T13:27:22+01:00'
-status: publish
-permalink: /self-publishing-podsumowanie-sprzedazy-typescript-na-powaznie
-author: Michał Miszczyszyn
-excerpt: >-
-  Jakiś czas temu na moim
+title: "Self-publishing: Podsumowanie sprzedaży TypeScript na poważnie"
+date: 2021-01-01T13:27:22+01:00
+excerpt: Jakiś czas temu na moim
   [instagramie](https://www.instagram.com/michal_typeofweb/) zadałem pytanie,
   czy chcielibyście zobaczyć podsumowanie sprzedaży książki „TypeScript na
   poważnie” w self-publishing. Blisko 100% odpowiedzi było na TAK, więc oto i
   ono 🙂
-type: post
-id: 2622
-thumbnail: ../../uploads/2020/12/typescript_na_powaznie_sprzedaz-150x150.png
-category:
-  - Inicjatywy
-  - Opinie
-tag:
-  - TypeScript
+author: Michał Miszczyszyn
+permalink: /self-publishing-podsumowanie-sprzedazy-typescript-na-powaznie
+thumbnail: https://typeofweb.com/wp-content/uploads/2020/12/typescript_na_powaznie_sprzedaz-150x150.png
+status: publish
 post_format: []
 series:
   - Self Publishing
+type: post
+id: 2622
+tag:
+  - TypeScript
+category:
+  - Inicjatywy
+  - Opinie
 seo:
   focuskeywords: []
   focuskw: self-publishing
   keywordsynonyms: []
-  metadesc: >-
-    Ile zarobiłem na książce „TypeScript na poważnie”? Jaka była sprzedaż? Czego
-    się spodziewałem? Jakie koszta musiałem ponieść? Ciąg dalszy o
+  metadesc: Ile zarobiłem na książce „TypeScript na poważnie”? Jaka była sprzedaż?
+    Czego się spodziewałem? Jakie koszta musiałem ponieść? Ciąg dalszy o
     self-publishing.
-
+  is_cornerstone: false
 ---
 Jakiś czas temu na moim [instagramie](https://www.instagram.com/michal_typeofweb/) zadałem pytanie, czy chcielibyście zobaczyć podsumowanie sprzedaży książki „TypeScript na poważnie” w self-publishing. Blisko 100% odpowiedzi było na TAK, więc oto i ono 🙂
 
@@ -37,7 +35,7 @@ Jakiś czas temu na moim [instagramie](https://www.instagram.com/michal_typeofwe
 
 Zacznijmy może od początku. W tym celu musimy się cofnąć aż do sierpnia, gdyż to właśnie wtedy otworzyłem przedsprzedaż w moim sklepie. Było to dokładnie 19.08.2020. Ceny wtedy były niskie specjalnie dla osób, które chciały mi zaufać i kupić „kota w worku”: za książkę trzeba było zapłacić tylko 59,99zł, a wiele osób korzystało też jeszcze z kodów rabatowych dostępnych np. w moim newsletterze.
 
-[![Okładki książki „TypeScript na poważnie” w wersjach drukowanej, Kindle i iPad w self-publishing](../../uploads/2020/04/Book-Cover-Mockup-2-300x227.jpg)](https://sklep.typeofweb.com/)
+[![Okładki książki „TypeScript na poważnie” w wersjach drukowanej, Kindle i iPad w self-publishing](https://typeofweb.com/wp-content/uploads/2020/04/Book-Cover-Mockup-2-300x227.jpg)](https://sklep.typeofweb.com/)
 
 ## Fakap
 
@@ -45,7 +43,13 @@ Nie obyło się bez **fakapów** – standardowo – uroki self-publishing. Pier
 
 Bug leżał gdzieś w czeluściach modyfikacji, które wprowadziłem do WooCommerce. Nie miałem pojęcia nawet gdzie zacząć szukać, więc zrobiłem to, co każdy porządny programista zrobiłby na moim miejscu: **zahardkodowałem ceny produktów w kodzie** 😅
 
-<figure aria-describedby="caption-attachment-2624" class="wp-caption aligncenter" id="attachment_2624" style="width: 639px">[![](../../uploads/2020/12/Screenshot-2020-12-31-at-20.05.46-889x1024.png)](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-20.05.46.png)<figcaption class="wp-caption-text" id="caption-attachment-2624">Zahardkowane ceny produktów w sklepie. Tak, używam jasnego motywu w edytorze.</figcaption></figure>Mam 3 produkty w sklepie, zajęło mi to jakieś 30 sekund. **Oczywiście wcześniej spędziłem 6 godzin** próbując załatać problem w jakiś „porządny” sposób. Cóż. Czasami po prostu nie warto tracić z oczu ważniejszego celu.
+<figure aria-describedby="caption-attachment-2624" class="wp-caption aligncenter" id="attachment_2624" style="width: 639px">
+
+[![](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-20.05.46-889x1024.png)](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-20.05.46.png)
+
+<figcaption class="wp-caption-text" id="caption-attachment-2624">Zahardkowane ceny produktów w sklepie. Tak, używam jasnego motywu w edytorze.</figcaption></figure>
+
+Mam 3 produkty w sklepie, zajęło mi to jakieś 30 sekund. **Oczywiście wcześniej spędziłem 6 godzin** próbując załatać problem w jakiś „porządny” sposób. Cóż. Czasami po prostu nie warto tracić z oczu ważniejszego celu.
 
 ## Przychody w przedsprzedaży
 
@@ -53,7 +57,7 @@ Przedsprzedaż książki [„TypeScript na poważnie”](https://typescriptnapow
 
 Jak się można spodziewać, największe obroty przypadły na **ostatni dzień przedsprzedaży**. To raczej standard i absolutnie mnie nie dziwi, gdyż sam często też zwlekam z zakupami do ostatniej chwili.
 
-[![Wykres przedsprzedaży TypeScript na poważnie w self-publishing](../../uploads/2020/12/Screenshot-2020-12-31-at-12.44.46-1024x258.png)](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-12.44.46.png)
+[![Wykres przedsprzedaży TypeScript na poważnie w self-publishing](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-12.44.46-1024x258.png)](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-12.44.46.png)
 
 ## Zasadność przedsprzedaży a self-publishing
 
@@ -65,7 +69,7 @@ Książka do sprzedaży wróciła dopiero w listopadzie tuż przed Black Friday.
 
 Dziesiątego grudnia był też Dzień Darmowej Dostawy, w którym wziąłem udział. Cena książki była taka sama, ale wysyłka była za darmo. W okolicach tych dwóch promocji widoczne jest znacznie większe zainteresowanie książką. Od Black Friday do dzisiaj klienci złożyli **496 zamówień**.
 
-[![](../../uploads/2020/12/Screenshot-2020-12-31-at-19.02.16-1024x269.png)](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-19.02.16.png)
+[![](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-19.02.16-1024x269.png)](https://typeofweb.com/wp-content/uploads/2020/12/Screenshot-2020-12-31-at-19.02.16.png)
 
 ## Dochody w self-publishing
 
