@@ -21,9 +21,9 @@ media_folder: public/img
 public_folder: /img
 
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "blog"
+  - name: "posts"
+    label: "Posts"
+    folder: "posts"
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     preview_path: "{{slug}}"
@@ -32,5 +32,30 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Publish Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Excerpt", name: "excerpt", widget: "markdown", required: false }
       - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "ID", name: "id", widget: "hidden", required: false }
+      - { label: "Thumbnail", name: "thumbnail", widget: "image", required: false }
+      - { label: "Tags", name: "tag", widget: "list", label_singular: "Tag", required: false }
+      - { label: "Categories", name: "category", widget: "list", label_singular: "Category", required: false }
+      - { label: "Series", name: "series", widget: "list", label_singular: "Serie", required: false }
+      # permalink
+      # author
+      # status
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        summary: '{{fields.title}}'
+        collapsed: true
+        fields:
+          - { label: "Title", name: "title", widget: "string", required: false }
+          - { label: "Metadesc", name: "metadesc", widget: "text", required: false }
+          - { label: "n ofollow", name: "meta-robots-nofollow", widget: "boolean", required: false }
+          - { label: "Opengraph Image ID", name: "opengraph-image-id", widget: "string", required: false }
+          - { label: "Opengraph Image", name: "opengraph-image", widget: "file", required: false }
+          - { label: "Twitter Image", name: "twitter-image", widget: "file", required: false }
+          - { label: "Focuskeywords", name: "focuskeywords", widget: "list", required: false }
+          - { label: "Focuskw_text_input", name: "focuskw_text_input", widget: "string", required: false }
+          - { label: "Focuskw", name: "focuskw", widget: "string", required: false }
+          - { label: "Is cornerstone", name: "is_cornerstone", widget: "boolean", required: false }
+          - { label: "Keyword synonyms", name: "keywordsynonyms", widget: "list", required: false }
